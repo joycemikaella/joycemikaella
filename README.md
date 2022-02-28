@@ -16,6 +16,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycemikaella&layout=compact&langs_count=16&theme=panda"/>
 <div>
 
+  
+  
+  
 <div> 
   <a href = "mailto: joycemikaella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyce-aciole-3a9964221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
