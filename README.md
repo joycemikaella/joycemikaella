@@ -10,19 +10,14 @@
 - 💞️I love technology, especially software development, as it gives us solutions beyond human capacity.
 
 
-<div>
 
 | <a href="https://github.com/joycemikaella"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joycemikaella&show_icons=true&include_all_commits=true&theme=panda_border=true" alt="Joyce Mikaella's Github Stats" /></a> | <a href="https://github.com/joycemikaella"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=panda_border=true" /></a> |
 
-</div>
-
 <hr>
 
-<div> 
   <a href = "mailto: joycemikaella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyce-aciole-3a9964221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
 
 <!---
 joycemikaella/joycemikaella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
