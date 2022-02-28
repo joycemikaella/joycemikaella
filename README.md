@@ -10,7 +10,7 @@
 - 💞️I love technology, especially software development, as it gives us solutions beyond human capacity.
 
 <hr>
-<a href="https://github.com/joycemikaella"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=joycemikaella&show_icons=true&include_all_commits=true&theme=panda&hide_border=true" alt="Joyce Mikaella's Github Stats" /></a>
+<a href="https://github.com/joycemikaella"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=joycemikaella&show_icons=true&include_all_commits=true&count_private=true&theme=panda&hide_border=true" alt="Joyce Mikaella's Github Stats" /></a>
 <a href="https://github.com/joycemikaella"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=panda&hide_border=true" /></a>
 
 <hr>
