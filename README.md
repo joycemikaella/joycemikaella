@@ -3,7 +3,7 @@
 <hr>
 
 - 👋 I’m @joycemikaella
-- ⚡ I'm a Computer Science student, I'm 27 years old and I've been working for almost 9 years in the Information Technology area.
+- ⚡ I have a bachelor's degree in Computer Science, I'm 27 years old and I've been working for almost 9 years in the Information Technology area.
 - 💼 I currently work as a Custom Solutions Analyst II that focuses essentially on Java and I am dedicating myself to achieving evolution in my professional life.
 - 🌱 I'm learning about different languages, including: Java, JavaScript, C/C++, HTML, CSS and SQL.
 - 📈 My goal is to specialize in backend software development
